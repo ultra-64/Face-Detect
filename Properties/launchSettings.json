@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FaceDetect": {
+      "commandName": "Project",
+      "commandLineArgs": "828aa3a6b2e84d66887e1b1aa0fa8ad7 \"C:\\Users\\lexit\\Desktop\\Study Files\\Ex_Files_Code_Clinic_C_Sharp\\Exercise Files\\Ch05\\Filthy-Frank-.jpg\""
+    }
+  }
+}

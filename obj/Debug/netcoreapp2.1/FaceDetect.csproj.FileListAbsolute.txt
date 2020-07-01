@@ -1,0 +1,10 @@
+C:\Users\lexit\Desktop\Study Files\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch05\03\End\CodeClinic\FaceDetect\obj\Debug\netcoreapp2.1\FaceDetect.csprojAssemblyReference.cache
+C:\Users\lexit\Desktop\Study Files\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch05\03\End\CodeClinic\FaceDetect\obj\Debug\netcoreapp2.1\FaceDetect.AssemblyInfoInputs.cache
+C:\Users\lexit\Desktop\Study Files\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch05\03\End\CodeClinic\FaceDetect\obj\Debug\netcoreapp2.1\FaceDetect.AssemblyInfo.cs
+C:\Users\lexit\Desktop\Study Files\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch05\03\End\CodeClinic\FaceDetect\bin\Debug\netcoreapp2.1\FaceDetect.deps.json
+C:\Users\lexit\Desktop\Study Files\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch05\03\End\CodeClinic\FaceDetect\bin\Debug\netcoreapp2.1\FaceDetect.runtimeconfig.json
+C:\Users\lexit\Desktop\Study Files\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch05\03\End\CodeClinic\FaceDetect\bin\Debug\netcoreapp2.1\FaceDetect.runtimeconfig.dev.json
+C:\Users\lexit\Desktop\Study Files\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch05\03\End\CodeClinic\FaceDetect\bin\Debug\netcoreapp2.1\FaceDetect.dll
+C:\Users\lexit\Desktop\Study Files\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch05\03\End\CodeClinic\FaceDetect\bin\Debug\netcoreapp2.1\FaceDetect.pdb
+C:\Users\lexit\Desktop\Study Files\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch05\03\End\CodeClinic\FaceDetect\obj\Debug\netcoreapp2.1\FaceDetect.dll
+C:\Users\lexit\Desktop\Study Files\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch05\03\End\CodeClinic\FaceDetect\obj\Debug\netcoreapp2.1\FaceDetect.pdb
